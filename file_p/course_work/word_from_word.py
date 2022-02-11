@@ -60,3 +60,6 @@ if __name__ == '__main__':
     main()
 
 print("ok")
+
+def okk:
+    print("ok my nembays")
